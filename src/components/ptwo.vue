@@ -27,7 +27,7 @@ h2{width: 30%;text-align: center;margin-left: 30px;border-left: steelblue solid 
 .content{width:70%;text-align: left;}
 .first{display: flex;}
 h4{text-align: left;padding:0 30px 20px 30px;width: 80px;color: rgb(79, 144, 218);}
-h3{text-align: left;color: rgb(94, 92, 92);}
+h3{text-align: left;color: rgb(94, 92, 92);width: 66%;}
 #two{padding-top: 20px;}
 /* #over{padding-left: 17px;padding-right: 50px;} */
 </style>
